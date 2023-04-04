@@ -1,0 +1,40 @@
+# depslib dependency file v1.0
+1680629925 source:e:\my project\c++\c++\projects\oop1\oop1\oop1\main.cpp
+	<iostream>
+	<iomanip>
+	<windows.h>
+	<unistd.h>
+	<ContactBook.h>
+
+1679176107 source:e:\my project\c++\c++\projects\oop1\oop1\oop1\src\contacbook.cpp
+	"ContacBook.h"
+
+1679179222 e:\my project\c++\c++\projects\oop1\oop1\oop1\include\contacbook.h
+
+1680546416 source:e:\my project\c++\c++\projects\oop1\oop1\oop1\src\contact.cpp
+	"Contact.h"
+	<string>
+
+1680546415 e:\my project\c++\c++\projects\oop1\oop1\oop1\include\contact.h
+	<PhoneNumber.h>
+	<string>
+	<iostream>
+
+1680490329 source:e:\my project\c++\c++\projects\oop1\oop1\oop1\src\phonenumber.cpp
+	"PhoneNumber.h"
+	<windows.h>
+
+1680490331 e:\my project\c++\c++\projects\oop1\oop1\oop1\include\phonenumber.h
+	<string>
+	<iostream>
+	<windows.h>
+
+1680490207 source:e:\my project\c++\c++\projects\oop1\oop1\oop1\src\contactbook.cpp
+	"ContactBook.h"
+	<PhoneNumber.h>
+
+1680631445 e:\my project\c++\c++\projects\oop1\oop1\oop1\include\contactbook.h
+	<Contact.h>
+	<string>
+	<iostream>
+
